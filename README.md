@@ -1,12 +1,8 @@
-# 💫 About Darkroot101:
+# 💫 About Arnokai:
 🎓 B.Tech in Computer Science & Engineering  <br>🌏 From India | Living & learning in code and hacks the dreams  <br>
 ## 🎭 Interests  
 
-🎌 Anime lover<br> 🔐 Cybersecurity & hacking <br> ㊙️ Japanese learner (goal: JLPT N1) <br> 🕶️ Anonymity & digital privacy enthusiast  <br> 🛠️ DIY builder  (Love to build from scratch)   <br> 🌸 Dreaming of a happy & peaceful life in Japan  <br><br><br>🕯 Quote  <br>*“Roots grow in silence, unseen but they crack concrete.”*  <br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedarkroot101) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thedarkroot101@gmail.com) 
+🎌 Anime lover<br> 💻 Full Stack Learner <br>🔐 Cybersecurity & hacking <br> 🕶️ Anonymity & digital privacy enthusiast  <br> 🛠️ DIY builder  (Love to build from scratch)   <br><br><br>🕯 Quote  <br>*“Roots grow in silence, unseen but they crack concrete.”*  <br>
 
 
 # 💻 Tech Stack:
